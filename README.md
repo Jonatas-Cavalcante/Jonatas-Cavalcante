@@ -1,41 +1,45 @@
-<h2 align="left">Hi 👋! My name is Jônatas</h2>
+[README.md](https://github.com/user-attachments/files/27178293/README.md)
+# Hi👋, I'm [Jonatas-Cavalcante](https://github.com/Jonatas-Cavalcante)
 
-###
+### Software Engineering Student
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonatas-Cavalcante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonatas-Cavalcante&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+- 👨‍💼 Junior PHP Developer \(Trainee\) / Operations Apprentice at **Luz Mar Madeiras LTDA / Freelancer**.
+- 🏫 Pursuing a Bachelor's Degree in Software Engineering at **Estácio**.
+- 📚 Proficient in **Modern PHP, Object-Oriented Programming \(OOP\), MySQL, Workflow Automation**.
+- 📧 Reach me via [**Email**](mailto:jonatas.cesouza%40gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/jonatascsouza/).
+- 📍 Based in **Rio de Janeiro, Brasil**.
+
+<hr>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div width="100%" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=Jonatas-Cavalcante&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=Jonatas-Cavalcante&show_icons=true&include_all_commits=true&count_private=true&card_width=495" />
+    <img width="400px" align="center" alt="GitHub Stats" src="https://github-readme-stats-ranit.vercel.app/api?username=Jonatas-Cavalcante&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=495" />
+  </picture>
 </div>
 
-###
+<h2 align="center">🔥 Language & Coding Activity</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+<div width="100%" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=Jonatas-Cavalcante&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=Jonatas-Cavalcante&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+    <img align="center" alt="Top Languages" src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=Jonatas-Cavalcante&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+  </picture>
 </div>
 
-###
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <a href="https://www.instagram.com/jts3_3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://go-skill-icons.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=php%2Chtml%2Ccss%2Cjavascript%2Claravel%2Cmysql%2Coracle%2Cpostgresql%2Cdbeaver%2Cvscode%2Cgit%2Cgithub%2Cgithubdesktop&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=php%2Chtml%2Ccss%2Cjavascript%2Claravel%2Cmysql%2Coracle%2Cpostgresql%2Cdbeaver%2Cvscode%2Cgit%2Cgithub%2Cgithubdesktop&theme=light" />
+      <img loading="lazy" alt="Tech Stack" src="https://go-skill-icons.vercel.app/api/icons?i=php%2Chtml%2Ccss%2Cjavascript%2Claravel%2Cmysql%2Coracle%2Cpostgresql%2Cdbeaver%2Cvscode%2Cgit%2Cgithub%2Cgithubdesktop&theme=dark" />
+    </picture>
+    <br />
   </a>
-  <a href="https://www.linkedin.com/in/j%C3%B4natas-cavalcante-151a90351/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jonatas-Cavalcante/Jonatas-Cavalcante/output/snake.svg" alt="Snake animation" />
-
-###

@@ -3,7 +3,7 @@
 
 ### Software Engineering Student
 
-- 👨‍💼 Junior PHP Developer \(Trainee\) / Operations Apprentice at **Luz Mar Madeiras LTDA / Freelancer**.
+- 👨‍💼 Junior PHP Developer \(Trainee\) / IT Support Assistant at **Luz Mar Madeiras LTDA / Freelancer**
 - 🏫 Pursuing a Bachelor's Degree in Software Engineering at **Estácio**.
 - 📚 Proficient in **Modern PHP, Object-Oriented Programming \(OOP\), MySQL, Workflow Automation**.
 - 📧 Reach me via [**Email**](mailto:jonatas.cesouza%40gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/jonatascsouza/).
